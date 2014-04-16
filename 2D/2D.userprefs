@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets (Mobile)\Prefabs\ScreenScroller.cs">
+    <Files>
+      <File FileName="Assets\HealthScript.cs" Line="59" Column="2" />
+      <File FileName="Assets\PlayerScript.cs" Line="70" Column="17" />
+      <File FileName="Assets\Standard Assets (Mobile)\Prefabs\ScreenScroller.cs" Line="99" Column="62" />
+      <File FileName="Assets\HealthScript.cs" Line="57" Column="25" />
+      <File FileName="Assets\ShotScript.cs" Line="23" Column="25" />
+      <File FileName="Assets\MoveScript.cs" Line="12" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
